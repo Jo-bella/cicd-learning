@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Test website
-        run: test -f missing.html
+        run: test -f index.html
